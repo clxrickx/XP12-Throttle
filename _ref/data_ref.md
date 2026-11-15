@@ -14,3 +14,11 @@
 **Lever Rotational Arc:** 35~45 deg
 **Linear Lever Throw:** 70~85 mm
 **Detent Layout:** Short throw throttle w/ rigid physical detents [REV-IDLE-CL-(FLX/MCT)-TOGA]
+
+
+# Math(booooooo):
+s = r * θ
+> Where:
+- s = arc length (linear throw)
+- r = radius (lever length) 
+- θ = angle (in radians)
