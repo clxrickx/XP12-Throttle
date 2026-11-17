@@ -18,8 +18,8 @@
 
 # Decided Values:
 
-**Lever Rotational Arc:** 50 deg forward, 10 deg aft
-**Linear Lever Throw:** 100 mm
-**Radius (Lever Length):** 50 mm
+**Lever Rotational Arc:** 100 deg full
+**Linear Lever Throw:** i have no idea mm
+**Radius (Lever Length):** also forgot mm
 
-**Lever Spacing:** 20 mm
+**Lever Spacing:** not 20 mm
